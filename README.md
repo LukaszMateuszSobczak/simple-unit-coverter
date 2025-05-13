@@ -1,6 +1,6 @@
 # Simple password generator
 
-This is a project from [Scrimba course](https://scrimba.com/frontend-path-c0j)
+This is a solo project from [Scrimba course](https://scrimba.com/frontend-path-c0j)
 
 ### Screenshot
 
